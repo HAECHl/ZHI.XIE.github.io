@@ -40,5 +40,5 @@ A K-Band Compact mm-Wave Low Noise Amplifier on TSMC 65 nm CMOS
   
 - Implemented a one-stage cascode LNA with source negative feedback which achieves 15.9 dB gain and NF of 2.5 dB which shows good noise performance. 
 
-- Designed the inductors into the shape of '8' to decouple the inductors in the circuit. Overlapping the decoupled inductors to pare down the chip area by 72\%.
+- Designed the inductors into the shape of '8' to decouple the inductors in the circuit. Overlapping the decoupled inductors to pare down the chip area by 72%.
  
