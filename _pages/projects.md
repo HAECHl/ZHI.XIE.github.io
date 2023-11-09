@@ -20,4 +20,4 @@ A 7 bit Ka-Band Passive-Active Hybrid Attenuator on TSMC 65 nm CMOS
 
 - Managed the whole process of circuit design, chip layout design.
   
-![chip1](/images/chip1.png)
+![chip1](chip1.png)
