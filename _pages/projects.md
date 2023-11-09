@@ -16,4 +16,4 @@ A 7 bit Ka-Band Passive-Active Hybrid Attenuator on TSMC 65 nm CMOS
 -Designed a 1 bit variable gain amplifier for gain tuning and gain compensating. Proposed a improved current steering topology with switched capacitor for variable gain amplifiers which optimizes the phase error. Implemented a  Ka-band  1 bit 16 dB VGA in the proposed topology with a phase error of 1.4°.
 -Cascaded a  6 bit attenuator and a 1 bit attenuator to realize a Ka-band 7 bit hybrid attenuator with a minimum insertion loss of 0.52 dB, a low RMS gain error of 0.18 dB and a low RMS phase error
 -Managed the whole process of circuit design, chip layout design.
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/chip1.png)
