@@ -12,7 +12,7 @@ redirect_from:
 
 A 7 bit Ka-Band Passive-Active Hybrid Attenuator on TSMC 65 nm CMOS
 ======
-- Implemented a  Ka-Band  6 bit digital step attenuator using Bridge-T$/-Pi switch-type attenuator units for their high gain-tuning accuracy and small chip area. Due to the parasitic capacitors of the transistor in high frequency, capacitive compensation technique is applied to  optimize the phase error. The attenuator achieves an attenuation range of 0 $\sim$ 15.75 dB  with a 0.16 dB RMS attenuation error and a maximum 6.01° Phase Error.
+- Implemented a  Ka-Band  6 bit digital step attenuator using Bridge-T$/Pi switch-type attenuator units for their high gain-tuning accuracy and small chip area. Due to the parasitic capacitors of the transistor in high frequency, capacitive compensation technique is applied to  optimize the phase error. The attenuator achieves an attenuation range of 0 $\sim$ 15.75 dB  with a 0.16 dB RMS attenuation error and a maximum 6.01° Phase Error.
 
 - Designed a 1 bit variable gain amplifier for gain tuning and gain compensating. Proposed a improved current steering topology with switched capacitor for variable gain amplifiers which optimizes the phase error. Implemented a  Ka-band  1 bit 16 dB VGA in the proposed topology with a phase error of 1.4°.
 
@@ -32,7 +32,7 @@ A  DC-2 Gz Digital Step Attenuator in a mm-Wave Broadband Transceiver on TSMC 65
 - Designed the layout of the differential attenuator and the supporting transmission lines to the pad.
   
 - Collaborated with doctors and professors from Tsinghua University. Improved ability on communicating and collaborating through the teamwork despite under the quarantine during the pandemic.
-- 
+  
 
 A K-Band Compact mm-Wave Low Noise Amplifier on TSMC 65 nm CMOS  
 ======
