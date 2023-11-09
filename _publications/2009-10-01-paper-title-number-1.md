@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "A Ka-Band Low Phase Error CMOS VGA Using Current Steering Topology with Switched Capacitor"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/publication-number-1
+excerpt: ' This paper proposed a improved current steering topology with switched-capacitor phase error compensation technique for variable gain amplifiers. The mechanism of the optimization is validated with  mathematical formulas and simulation results. '
+date: 2024
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://ZHI.XIE.github.io/files/ISCAS2024.pdf'
+citation: 
 ---
-This paper is about the number 1. The number 2 is left for future work.
+  This paper proposed a improved current steering topology with switched-capacitor phase error compensation technique for variable gain amplifiers. The mechanism of the optimization is validated with  mathematical formulas and simulation results. 
+  Compared with other optimization techniques on phase error, the proposed switched-capacitor compensation technique has simpler topology with great effectiveness.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://ZHI.XIE.github.io/files/ISCAS2024.pdf)
