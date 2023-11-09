@@ -24,3 +24,5 @@ Gallery
 * [YOLK](yolk.png)
   
 * [AFTERGLOW](afterglow.png)
+
+![](afterglow.png)
