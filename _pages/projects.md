@@ -20,4 +20,14 @@ A 7 bit Ka-Band Passive-Active Hybrid Attenuator on TSMC 65 nm CMOS
 
 - Managed the whole process of circuit design, chip layout design.
   
-![chip1](chip1.png)
+![chip1](../chip1.png)
+
+
+A  DC-2 Gz Digital Step Attenuator in a mm-Wave Broadband Transceiver on TSMC 65 nm CMOS
+======
+- Researched into the switch-type attenuator and its operating principle. Acknowledged its advantage of simpler topology and smaller chip area in comparison with switch-path, distributed and other types of attenuators. Systematically trained the skills over layout drawing and gained the first experience of tapeout.
+- Composed the 6 bit attenuator with Bridge-T/-Pi switch-type attenuator units which achieves an attenuation range of 0 $\sim$ 31.5 dB  with a RMS attenuation error of 0.16 dB.
+- Designed the layout of the differential attenuator and the supporting transmission lines to the pad. 
+- Collaborated with doctors and professors from Tsinghua University. Improved ability on communicating and collaborating through the teamwork despite under the quarantine during the pandemic.
+  
+![chip2](chip2.png)
