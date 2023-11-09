@@ -18,7 +18,7 @@ A 7 bit Ka-Band Passive-Active Hybrid Attenuator on TSMC 65 nm CMOS
 
 - Cascaded a  6 bit attenuator and a 1 bit attenuator to realize a Ka-band 7 bit hybrid attenuator with a minimum insertion loss of 0.52 dB, a low RMS gain error of 0.18 dB and a low RMS phase error
 
-- Managed the whole process of circuit design, chip layout design.
+- Managed the whole process of circuit design, [chip layout design](chip1.png). 
   
  
 
