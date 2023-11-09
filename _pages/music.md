@@ -17,6 +17,10 @@ Album
 
 Gallery
 ======
-[BLESSING](blessing.png)
-[YOLK](yolk.png)
-
+* [BLESSING](blessing.png)
+  
+* [STAVE](stave.png)
+  
+* [YOLK](yolk.png)
+  
+* [AFTERGLOW](afterglow.png)
