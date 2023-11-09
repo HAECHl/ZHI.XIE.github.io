@@ -21,7 +21,7 @@ Gallery
   
 * [STAVE](stave.png)
   
-* [YOLK](yolk.png)
+* [YOLK](images/yolk.png)
   
 * [AFTERGLOW](afterglow.png)
 
