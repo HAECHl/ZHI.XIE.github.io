@@ -17,4 +17,6 @@ Album
 
 Gallery
 ======
+[BLESSING](blessing.png)
+[YOLK](yolk.png)
 
