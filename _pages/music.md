@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Music & Atrs"
-permalink: /Music_&_Atrs/
+title: "Music & Arts"
+permalink: /music/
 author_profile: true
 redirect_from:
-  - /resume
+  - /music
 ---
 
 {% include base_path %}
