@@ -26,3 +26,7 @@ Gallery
 * [AFTERGLOW](afterglow.png)
 
 ![](afterglow.png)
+![](../afterglow.png) 
+![](https://haechl.github.io/Zhi.Xie.github.io/afterglow.png) 
+![]("https://haechl.github.io/Zhi.Xie.github.io/afterglow.png") 
+![]("https://haechl.github.io/Zhi.Xie.github.io/images/afterglow.png") 
