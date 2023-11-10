@@ -16,8 +16,8 @@ About Me
 
   Currently I'm seeking for a PhD postion on RF integrated circuit design or other related fields.
 
-  Please feel free to contact with me through:
-[Email](mailto:zhitse@gmail.com)
+  Please feel free to contact with me through 
+[Email](mailto:zhitse@gmail.com) / 
 [Wechat](wechat1.png)
 
 
