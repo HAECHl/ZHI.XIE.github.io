@@ -12,8 +12,16 @@ redirect_from:
 Album
 ======
 * Hours, 2023
+  
+![](album2.png)
+![](../album2.png) 
+![](https://haechl.github.io/Zhi.Xie.github.io/album2.png)
 
 * An Unconstrained Journey of Thoughts, 2021
+  
+![](album1.png)
+![](../album1.png) 
+![](https://haechl.github.io/Zhi.Xie.github.io/album1.png)
 
 Gallery
 ======
