@@ -17,13 +17,12 @@ Album
 
 Gallery
 ======
-* [BLESSING](blessing.png)
-  
-* [STAVE](stave.png)
-  
-* [YOLK](images/yolk.png)
-  
-* [AFTERGLOW](afterglow.png)
-
-![](afterglow.png)
+* BLESSING
+  ![](blessing.png)
+* STAVE
+  ![](stave.png)
+* YOLK
+  ![](yolk.png)
+* AFTERGLOW
+  ![](afterglow.png)
 
