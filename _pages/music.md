@@ -19,10 +19,25 @@ Gallery
 ======
 * BLESSING
   ![](blessing.png)
+      ![](../blessing.png) 
+![](https://haechl.github.io/Zhi.Xie.github.io/blessing.png) 
+![]("https://haechl.github.io/Zhi.Xie.github.io/blessing.png") 
+![]("https://haechl.github.io/Zhi.Xie.github.io/images/blessing.png") 
 * STAVE
   ![](stave.png)
+    ![](../stave.png) 
+![](https://haechl.github.io/Zhi.Xie.github.io/stave.png) 
+![]("https://haechl.github.io/Zhi.Xie.github.io/stave.png") 
+![]("https://haechl.github.io/Zhi.Xie.github.io/images/stave.png") 
 * YOLK
   ![](yolk.png)
+  ![](../yolk.png) 
+![](https://haechl.github.io/Zhi.Xie.github.io/yolk.png) 
+![]("https://haechl.github.io/Zhi.Xie.github.io/yolk.png") 
+![]("https://haechl.github.io/Zhi.Xie.github.io/images/yolk.png") 
 * AFTERGLOW
-  ![](afterglow.png)
+![](../afterglow.png) 
+![](https://haechl.github.io/Zhi.Xie.github.io/afterglow.png) 
+![]("https://haechl.github.io/Zhi.Xie.github.io/afterglow.png") 
+![]("https://haechl.github.io/Zhi.Xie.github.io/images/afterglow.png") 
 
