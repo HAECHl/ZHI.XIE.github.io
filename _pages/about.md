@@ -18,9 +18,9 @@ About Me
 
   Please contact with me through [Email](mailto:zhitse@gmail.com)/[Wechat](/wechat1.png). 
   
-![Wechat](wechat1.png)
+[Wechat](wechat2.png)
 
-![](wechat1.png)
+![](wechat2.png)
 
 Research Interests
 ======
