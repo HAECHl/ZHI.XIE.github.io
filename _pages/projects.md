@@ -18,7 +18,12 @@ A 7 bit Ka-Band Passive-Active Hybrid Attenuator on TSMC 65 nm CMOS
 
 - Cascaded a  6 bit attenuator and a 1 bit attenuator to realize a Ka-band 7 bit hybrid attenuator with a minimum insertion loss of 0.52 dB, a low RMS gain error of 0.18 dB and a low RMS phase error
 
-- Managed the whole process of circuit design, [chip layout design](chip1.png). 
+- Managed the whole process of circuit design, [chip layout design](chip1.png).
+![](chip1.png)
+![](../chip1.png) 
+![](https://haechl.github.io/Zhi.Xie.github.io/chip1.png) 
+![]("https://haechl.github.io/Zhi.Xie.github.io/chip1.png") 
+![]("https://haechl.github.io/Zhi.Xie.github.io/images/chip1.png") 
   
  
 
@@ -33,6 +38,11 @@ A  DC-2 Gz Digital Step Attenuator in a mm-Wave Broadband Transceiver on TSMC 65
   
 - Collaborated with doctors and professors from Tsinghua University. Improved ability on communicating and collaborating through the teamwork despite under the quarantine during the pandemic.
   
+![](chip2.png)
+![](../chip2.png) 
+![](https://haechl.github.io/Zhi.Xie.github.io/chip2.png) 
+![]("https://haechl.github.io/Zhi.Xie.github.io/chip2.png") 
+![]("https://haechl.github.io/Zhi.Xie.github.io/images/chip2.png") 
 
 A K-Band Compact mm-Wave Low Noise Amplifier on TSMC 65 nm CMOS  
 ======
