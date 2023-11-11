@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
  
-A Ka-Band Low Phase Error CMOS VGA Using Current Steering Topology with Switched Capacitor
+Not showing the title due to the double-blind policy
 =====
   This paper proposed a improved current steering topology with switched-capacitor phase error compensation technique for variable gain amplifiers. The mechanism of the optimization is validated with  mathematical formulas and simulation results. 
   
